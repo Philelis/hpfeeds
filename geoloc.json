@@ -2,7 +2,7 @@
     "HOST": "localhost",
     "PORT": 10000,
     "IDENT": "geoloc", 
-    "SECRET": "379bdb6af644413ab6807479d06d96bf",
+    "SECRET": "",
     "CHANNELS": [
         "dionaea.connections",
         "dionaea.capture",
